@@ -154,6 +154,10 @@ button {
   cursor: pointer;
 }
 
-body {
-  background-color: red;
+@font-face {
+  font-family: "Noto Sans Georgian";
+  src: url("../../assets/fonts/NotoSansGeorgian-VariableFont_wdth,wght.ttf");
+}
+.body {
+  font-family: "Noto Sans Georgian";
 }/*# sourceMappingURL=global.css.map */
